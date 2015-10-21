@@ -1,2 +1,2 @@
 # webserver
-This is project of learning python.
+This is a project of learning python.
