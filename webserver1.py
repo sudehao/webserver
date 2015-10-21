@@ -1,3 +1,6 @@
+#! coding utf8
+
+
 import socket
 
 HOST, PORT = '', 8888
